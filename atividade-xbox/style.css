@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(41, 40, 40)
+}
+
+.logo-xbox {
+  width: 50px;
+  height: 50px;
+}
+
+.caixa-grande {
+  padding-inline:  25px;
+  justify-content: space-between;
+  display: flex;
+}
+
+.caixa-logo {
+  display: flex;
+  align-items: center;
+  column-gap:25px;
+}
+
+.imagens-gamepass {
+  display: flex;
+  align-items: center;
+  column-gap: 20px
+}
+
+.xbox-png {
+  width: 45x;
+  height: 45px;
+}
+
+.titulo{color: white;
+
+
+
+}
+
+.lupa {
+  width: 30px;
+  height: 30px;
+  filter: invert(1);
+}
+
+.sino {
+  width: 30px;
+  height: 30px;
+  filter: invert(1);
+}
+
+.fotoperfil {
+  width: 45px;
+  height: 45px;
+
+  border-radius: 500px
+}
+
+.botao{
+  color: white;
+  background-color: green;
+  width: 250px;
+  height: 40px;
+  border:none;
+
+
+}
