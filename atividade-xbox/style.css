@@ -1,0 +1,178 @@
+body{
+  background-image: url(https://preview.redd.it/8sm9otzcsqgd1.jpeg?auto=webp&s=a0ea0bdc0c4daa3ded7020aef365d65e0a6bcfb4);
+width: 100%;
+z-index: -1;
+filter:opacity(95%)
+}
+
+.logo-xbox {
+  width: 50px;
+  height: 50px;
+}
+
+.caixa-grande {
+  padding-inline:  25px;
+  justify-content: space-between;
+  display: flex;
+}
+
+.caixa-logo {
+  display: flex;
+  align-items: center;
+  column-gap:25px;
+}
+
+.imagens-gamepass {
+  display: flex;
+  align-items: center;
+  column-gap: 20px
+}
+
+.xbox-png {
+  width: 45x;
+  height: 45px;
+}
+
+.titulo{color: white;
+  
+  
+  
+}
+
+.lupa {
+  width: 30px;
+  height: 30px;
+  filter: invert(1);
+}
+
+.sino {
+  width: 30px;
+  height: 30px;
+  filter: invert(1);
+}
+
+.fotoperfil {
+  width: 45px;
+  height: 45px;
+  
+  border-radius: 500px
+}
+
+.botao{
+  color: white;
+  background-color: green;
+  width: 250px;
+  height: 40px;
+  border:none;
+  border-radius: 15px;
+  
+  
+}
+
+.imagem-jogos{
+  display:  flex;
+  column-gap: 25px;
+  margin-top: 25px;
+}
+
+
+.imagens-cima{
+  display: flex;
+column-gap: 50px;
+
+
+}
+
+.stalker2{
+height: 550px;
+width: 850px;
+border-radius: 5px;
+}
+
+.fortnite{
+  height: 550px;
+  width: 850px;
+  border-radius: 5px;
+
+}
+
+.mitologia{
+border-radius: 5px;
+}
+
+.img-call-of-duty{
+  border-radius: 5px;
+}
+
+.fifa24{
+  border-radius: 5px;
+
+}
+
+.forza{
+  border-radius: 5px;
+}
+
+.humanity{
+
+  border-radius: 5px;}
+
+.formula1{
+  border-radius: 5px;
+
+}
+
+.morta-lkombat{
+  border-radius: 5px;
+}
+
+.indiana-jones{
+border-radius: 5px;
+
+}
+
+.gamepass{
+  position: absolute;
+  width: 35px;
+height: 25px;
+right: 0;
+bottom: 5px;
+border-radius: 5px;
+}
+
+.beta{
+width: 45px;
+height: 25px;
+background-color: white;
+border: none;
+
+}
+
+.relative {
+  position: relative;
+}
+
+.titulo-stalker{
+  color: white;
+  position:absolute;
+  left: 10px;
+  bottom: 20px;
+
+
+}
+
+.paragrafo-gamepass{
+  color: white;
+  position:absolute;
+  left: 10px;
+  bottom: 0;
+
+}
+
+.titulo-fortnite{
+  color: white;
+  position:absolute;
+  left: 950px;
+  bottom: 10px
+}
+
