@@ -1,0 +1,62 @@
+body{ 
+  background-color: black;
+  display: flex;
+justify-content:center;
+align-items: center;
+height: 100vh;
+gap:16px
+}
+
+.plano-diamond{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+width: 400px;
+height: 700px;
+border-radius: 12px;
+column-gap: 100px;
+
+}
+
+.plano-safira{
+
+  background-color: white;
+  display: flex;
+  justify-content: center;
+width: 400px;
+height: 650px;
+border-radius: 12px;
+
+}
+
+.plano-rubi{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+width: 400px;
+height: 600px;
+border-radius: 12px;
+
+}
+
+.img-safira{
+  width: 400px;
+  height: 650px;
+  border-radius: 12px;
+  
+
+}
+
+.img-diamond{
+  width: 400px;
+  height: 700px;
+  border-radius: 12px;
+
+}
+
+.img-rubi{
+  width: 400px;
+  height: 600px;
+  border-radius: 12px;
+
+}
